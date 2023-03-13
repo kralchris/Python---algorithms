@@ -18,7 +18,8 @@ class Datamining:
 
 
 """
-Samnple test cases:
+Sample test cases:
+
 
 Test.describe("Sample tests")
 example_train_set = [(0, 1),
